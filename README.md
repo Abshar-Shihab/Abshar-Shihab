@@ -4,11 +4,6 @@
   I am U.L. Mohamed Abshar Shihab, a passionate Computer Engineering undergraduate at NUST, driven by a deep interest in cybersecurity and IoT. My Final Year Project (FYP), **Cyberly Secured Mesh Network for IoT Devices**, focuses on creating a robust and secure communication framework for IoT systems, integrating advanced encryption and AI-based threat detection. I aim to leverage my skills in Cybersecurity, AI/ML, networking, and embedded systems to contribute to innovative solutions in securing connected technologies.
 - 📫 How to reach me **absharshihab.ulm@gmail.com**
 
-## 🎓 Educational Background
-- **Degree**: Bachelor's in Computer Engineering (Reading)
-- **Institution**: National University of Sciences & Technology (NUST)
-- **Scholarship**: Allama Iqbal Scholarship for Sri Lankan Students (Merit-based)
-
 
 ## 🏆 Skills
 ***Technical Expertise***
