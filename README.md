@@ -12,7 +12,6 @@
 
 ## 🏆 Skills
 ***Technical Expertise***
-- **Programming Languages**: Proficient in Python, C++, C, and Verilog.
 - **Networking**: Knowledge of networking protocols, packet analysis, and tools like Wireshark and Cisco Packet Tracer.
 - **IoT & Embedded Systems**: Experience with ESP-IDF, UART communication, and IoT mesh networks.
 - **Cybersecurity**: Skilled in threat detection using AI/ML techniques, Capture the Flag, SQL injection.
