@@ -10,8 +10,8 @@
 - **Networking**: Knowledge of networking protocols, packet analysis, and tools like Wireshark and Cisco Packet Tracer.
 - **IoT & Embedded Systems**: Experience with ESP-IDF, UART communication, and IoT mesh networks.
 - **Cybersecurity**: Skilled in threat detection using AI/ML techniques, Capture the Flag, SQL injection.
-- **FPGA Design**: Hands-on experience with FPGA boards (e.g., Nexys 3) and FSM implementation.
 - **AI/ML**: Familiar with supervised/unsupervised learning, classification, and pattern recognition.
+- **FPGA Design**: Hands-on experience with FPGA boards (e.g., Nexys 3) and FSM implementation.
 
 
 ## 🌐 Socials:
